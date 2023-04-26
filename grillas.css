@@ -1,0 +1,14 @@
+*{
+    background-color: azure;
+}
+
+.verde{
+    background-color: lime;
+    border: 1px solid orange;
+}
+
+.container{
+    display: grid;
+    margin: 1em;
+}
+

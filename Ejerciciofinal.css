@@ -1,0 +1,17 @@
+.container-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1em;
+}
+
+.navbar{
+    background-color: rgba(33, 92, 33, 0.438) ; 
+}
+
+.container{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+    border: solid 1px gray;
+}

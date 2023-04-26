@@ -1,0 +1,22 @@
+*{
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: gray;
+    --bs-btn-hover-color: #55a152;
+}
+
+.btn-success{
+    background-color: grey;
+}
+
+div{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
